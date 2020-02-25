@@ -2,7 +2,7 @@ package javaPuzzler;
 
 public class Puzzle19 {
 	public static void main(String[] args) {
-		System.out.println(classify('n') + );
+		System.out.println(classify('n') + classify('+') + classify('2'));
 	}
 
 	private static String classify(char ch) {
